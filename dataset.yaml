@@ -1,0 +1,8 @@
+train: C:/Users/aadri/OneDrive/Escritorio/rec_ob/dataset_yolo/images/train
+val: C:/Users/aadri/OneDrive/Escritorio/rec_ob/dataset_yolo/images/val
+test: C:/Users/aadri/OneDrive/Escritorio/rec_ob/dataset_yolo/images/test
+
+names:
+  0: dolphin
+  1: penguin
+  2: rabbit

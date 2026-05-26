@@ -1,0 +1,2 @@
+,num_frames,idf1,idp,idr,recall,precision,num_objects,mostly_tracked,partially_tracked,mostly_lost,num_false_positives,num_misses,num_switches,num_fragmentations,mota,motp
+botsort,859,0.18888563336263306,0.27389888117830336,0.14414548706864425,0.3008124021763434,0.5715904262852287,13417,0,11,17,3025,9381,185,250,0.06156368785868671,0.19058879178449648

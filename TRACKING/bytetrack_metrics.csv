@@ -1,0 +1,2 @@
+,num_frames,idf1,idp,idr,recall,precision,num_objects,mostly_tracked,partially_tracked,mostly_lost,num_false_positives,num_misses,num_switches,num_fragmentations,mota,motp
+bytetrack,859,0.17856237000963832,0.2795425667090216,0.13117686517105165,0.24677647760304092,0.5258894536213469,13417,0,9,19,2985,10106,165,189,0.011999701870760937,0.19752078876641402
